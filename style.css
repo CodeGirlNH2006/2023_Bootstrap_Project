@@ -18,10 +18,29 @@ h1{
 
 }
 
+.custom{
+    padding-left:28%;
+    padding-right:28%;
+}
 
 p{
     font-family: "Calibri";
-    font-size:30px;
+    font-size:20px;
     text-align:center;
     color:black;
+}
+
+:root{
+    --blue: #002349;
+    --yellow: #ffb81c;
+}
+span {
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin:40px;
+    border-top: #b2b2b2 solid 40px;
+    border-left: #b2b2b2 solid 60px;
+    border-bottom: #b2b2b2 solid 40px;
+    border-right: #b2b2b2 solid 60px;
 }
