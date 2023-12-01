@@ -44,3 +44,16 @@ span {
     border-bottom: #b2b2b2 solid 40px;
     border-right: #b2b2b2 solid 60px;
 }
+
+.custom{
+    border-top: 40px grey solid;
+    border-left: 60px grey solid;
+    border-right: 60px grey solid;
+}
+.sub{
+    height: 30px;
+    background-color: grey;
+    text-align: right;
+    padding-right:40px;
+    padding-bottom:10px;
+}
