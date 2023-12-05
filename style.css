@@ -1,15 +1,9 @@
-a{
-    text-decoration: none;
-}
+/* Table of Contents:
+    1. Classes
+    2. General Tags
+ */
 
-h1{
-    font-family: "Bell MT";
-    font-style: italic;
-    color:white;
-    font-size:80px;
-    text-align:center;
-}
-
+/* 1. Classes */
 .nav-link{
     font-family: "Calibri";
     font-size: 25px;
@@ -22,14 +16,6 @@ h1{
     padding-left:28%;
     padding-right:28%;
 }
-
-p{
-    font-family: "Calibri";
-    font-size:20px;
-    text-align:center;
-    color:black;
-}
-
 
 :root{
     --blue: #002349;
@@ -72,7 +58,26 @@ p{
     padding-bottom:10px;
     display:block;
 }
+
+/* 2. General Tags */
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-family: "Bell MT";
+    font-style: italic;
+    color:white;
+    font-size:80px;
+    text-align:center;
+}
 img{
     width: 400px;
     height:300px;
+}
+p{
+    font-family: "Calibri";
+    font-size:20px;
+    text-align:center;
+    color:black;
 }
