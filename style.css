@@ -58,6 +58,19 @@
     padding-bottom:10px;
     display:block;
 }
+.active{
+    background-color: #ffc84f;
+}
+
+.btn{
+    background-color: #002349;
+    color:white;
+    font-family: "Calibri";
+    font-size:25px;
+    float: right;
+    margin-right:40px;
+
+}
 
 /* 2. General Tags */
 a{
