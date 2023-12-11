@@ -69,9 +69,18 @@
     font-size:25px;
     float: right;
     margin-right:40px;
-
+}
+.lgimg{
+    width: 600px;
+    height: 450px;
 }
 
+.singItem{
+    float:right;
+    text-align:right;
+    margin-top:20px;
+    margin-right:40px;
+}
 /* 2. General Tags */
 a{
     text-decoration: none;
@@ -92,5 +101,11 @@ p{
     font-family: "Calibri";
     font-size:20px;
     text-align:center;
+    color:black;
+}
+
+label{
+    font-family: "Calibri";
+    font-size: 25px;
     color:black;
 }
