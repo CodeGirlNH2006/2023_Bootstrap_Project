@@ -4,6 +4,11 @@
  */
 
 /* 1. Classes */
+
+:root{
+    --blue: #002349;
+    --yellow: #ffb81c;
+}
 .nav-link{
     font-family: "Calibri";
     font-size: 25px;
@@ -12,15 +17,18 @@
 
 }
 
+.jumbotron{
+    background-color:var(--blue);
+}
+.navbar{
+    background-color:var(--yellow);
+}
+
 .custom{
     padding-left:28%;
     padding-right:28%;
 }
 
-:root{
-    --blue: #002349;
-    --yellow: #ffb81c;
-}
 
 .bord{
 
@@ -112,4 +120,5 @@ label{
 footer{
     font-family: "Calibri";
     font-size:20px;
+    background-color:var(--yellow);
 }
